@@ -1,0 +1,20 @@
+.API{
+    border: 19px;
+    /* text-align: center; */
+    background-color: rgb(13, 16, 16);
+    color: aliceblue;
+}
+
+.button{
+    background-color: blue;
+    border-radius: 10px;
+    font-size:xx-large;
+    font-weight: bolder;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 400px;
+
+    border:400;
+}
